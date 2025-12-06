@@ -1,0 +1,5 @@
+# Ejemplo de requirements.txt
+python-telegram-bot
+SQLAlchemy
+python-dotenv
+psycopg2-binary
